@@ -13,6 +13,7 @@ The code from the DQ data was refactored for this analysis. For 2017, most of th
 
 ### Timer 
 It is more efficient when a code runs for less time. In the DQ analysis, the code ran for 0.7109 for the year 2017 and 0.7656 for the year 2018. This is very interesting because when I ran the code for all the tickers analysis, the code ran for less time. For both years, the code ran for 0.1328125 which is way less than the DQ’s analysis time. This is significant because the person who wants the run the code does not have to wait that long for the code to go through all of the data. 
+
 <img width="256" alt="DQ2017" src="https://user-images.githubusercontent.com/100107588/157592177-0ab15a19-2c64-4d28-90e5-037d011a9391.png">
 <img width="259" alt="DQ2018" src="https://user-images.githubusercontent.com/100107588/157592201-8d4a6d12-ec2e-4919-b6d0-ccee9da8569f.png">
 <img width="257" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/100107588/157592217-ca03b41d-b5a0-4697-92dc-cac8048e5fbf.png"><img width="262" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/100107588/157592223-265026f7-c4bb-4ca7-aa5d-51924fc5fe8d.png">
